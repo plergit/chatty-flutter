@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "691423417477",
+    "firebase_url": "https://chatty-838c4.firebaseio.com",
+    "project_id": "chatty-838c4",
+    "storage_bucket": "chatty-838c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691423417477:android:162854865b91be311845ec",
+        "android_client_info": {
+          "package_name": "com.iceberg.chatty.th"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691423417477-njpjsbb19ujth9jij7bj0g2997t77284.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_-5IFdFyzMXbxClKz6F2uHRJbdDLoXBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691423417477-njpjsbb19ujth9jij7bj0g2997t77284.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691423417477-pl1s5t2pifuf1mq5hspj8v1i3b2lv57c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iceberg.chatty.th"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691423417477:android:8c74fa089110eab21845ec",
+        "android_client_info": {
+          "package_name": "com.iceberg.chatty.th.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691423417477-njpjsbb19ujth9jij7bj0g2997t77284.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_-5IFdFyzMXbxClKz6F2uHRJbdDLoXBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691423417477-njpjsbb19ujth9jij7bj0g2997t77284.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691423417477-pl1s5t2pifuf1mq5hspj8v1i3b2lv57c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iceberg.chatty.th"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
